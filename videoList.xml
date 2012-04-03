@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<allFlv>
+	<flv id ="0">
+		<title>Eminem - Love The Way You Lie ft Rihanna</title>
+		<owner>Eminem</owner>
+		<details>Music video by Eminem performing Love The Way You Lie.� 2010 Aftermath RecordsTo call Eminem hip-hop's Elvis is correct to a degree, but it's largely inaccurate.</details>
+		<url>flv\Love-The-Way-You-Lie.flv</url>
+		<temp>img\00.jpg</temp>
+	</flv>
+
+	<flv id ="1">
+		<title>Lil Wayne - Mirror ft Bruno Mars</title>
+		<owner>Lil Wayne</owner>
+		<details>Music video by Lil Wayne performing Mirror. © 2012 Cash Money Records/Young Money Ent./Universal Rec.</details>
+		<url>flv\Mirror.flv</url>
+		<temp>img\01.jpg</temp>
+	</flv>
+	
+	<flv id ="2">
+		<title>David Guetta - Turn Me On ft Nicki Minaj</title>
+		<owner>David Guetta</owner>
+		<details>Music video by David Guetta performing Turn Me On featuring Nicki Minaj. (P) 2011 What A Music Ltd, Licence exclusive EMI Music France</details>
+		<url>flv\Turn-Me-On.flv</url>
+		<temp>img\02.jpg</temp>
+	</flv>
+	
+	<flv id ="3">
+		<title>Bad Meets Evil - Lighters ft Bruno Mars</title>
+		<owner>Bad Meets Evil</owner>
+		<details>Music video by Bad Meets Evil performing Lighters. © 2011 Shady Records/Interscope Records</details>
+		<url>flv\Lighters.flv</url>
+		<temp>img\03.jpg</temp>
+	</flv>
+	
+	<flv id ="4">
+		<title>Gotye - Somebody That I Used To Know (feat Kimbra) - official video</title>
+		<owner>Gotye</owner>
+		<details>Film clip for the Gotye song Somebody That I Used To Know, featuring Kimbra from the album Making Mirrors </details>
+		<url>flv\Somebody-That-I-Used-To-Know.flv</url>
+		<temp>img\04.jpg</temp>
+	</flv>
+	
+	<flv id ="5">
+		<title>Adele - Rolling In The Deep</title>
+		<owner>Adele</owner>
+		<details>Music video by Adele performing Rolling In The Deep. (C) 2010 XL Recordings Ltd.</details>
+		<url>flv\Rolling-In-The-Deep.flv</url>
+		<temp>img\05.jpg</temp>
+		
+	</flv>
+	
+	<flv id ="6">
+		<title>Adele - Set Fire To The Rain</title>
+		<owner>Adele</owner>
+		<details>Music video by Adele performing Set Fire To The Rain. (C) 2011 XL Recordings Ltd</details>
+		<url>flv\Set-Fire-To-The-Rain.flv</url>
+		<temp>img\06.jpg</temp>
+	</flv>
+	
+	<flv id ="7">
+		<title>David Guetta - Without You ft Usher</title>
+		<owner>David Guetta </owner>
+		<details>David Guetta's hit album "Nothing But the Beat" feat the hit singles "Where Them Girls At" feat Flo Rida + Nicki Minaj Music video by David Guetta performing Without You. (C) 2011 What A Music Ltd / EMI Music France, Licence exclusive EMI Music France</details>
+		<url>flv\Without-You.flv</url>
+		<temp>img\07.jpg</temp>
+	</flv>
+	
+	<flv id ="8">
+		<title>Bruno Mars - Just The Way You Are</title>
+		<owner>Bruno Mars </owner>
+		<details>Website: http://www.brunomars.com Directed by Ethan Lader / Inspired by the artwork of Erika Iris Simmons.</details>
+		<url>flv\Just-The-Way-You-Are.flv</url>
+		<temp>img\08.jpg</temp>
+	</flv>
+	
+	
+</allFlv>
